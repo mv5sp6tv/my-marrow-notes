@@ -1,0 +1,1 @@
+Old field notes are periodically cleaned up from the main tree for privacy.
